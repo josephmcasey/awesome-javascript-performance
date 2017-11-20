@@ -12,13 +12,13 @@ An awesome list about computationally performant JavaScript with minimal space r
 ### [Chakra](https://blogs.windows.com/msedgedev/tag/chakra/)
   * [Git Repository](https://github.com/Microsoft/ChakraCore)
 
-## [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+### [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
   * [Git Repository](https://hg.mozilla.org/mozilla-central/)
 
-## [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore)
+### [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore)
   * [Git Repository](https://trac.webkit.org/browser/trunk/Source/JavaScriptCore)
 
-## [Web Assembly](http://webassembly.org/)
+### [Web Assembly](http://webassembly.org/)
 
 ## Libraries:
 
