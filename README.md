@@ -8,7 +8,7 @@ An awesome list about computationally performant JavaScript with minimal space r
 ### [v8](https://developers.google.com/v8/)
   * [Git Repository](https://chromium.googlesource.com/v8/v8.git)
 
-### [Chakra]
+### [Chakra](https://blogs.windows.com/msedgedev/tag/chakra/)
   * [Git Repository](https://github.com/Microsoft/ChakraCore)
 
 ## [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
