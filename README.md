@@ -4,6 +4,7 @@ An awesome list about computationally performant JavaScript with minimal space r
 ## JavaScript Engines and Implementations:
 
 ### [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+ * [ECMA-262, 8th edition, June 2017](http://www.ecma-international.org/ecma-262/8.0/index.html)
 
 ### [v8](https://developers.google.com/v8/)
   * [Git Repository](https://chromium.googlesource.com/v8/v8.git)
